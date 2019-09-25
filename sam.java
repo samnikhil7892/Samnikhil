@@ -7,6 +7,7 @@ git-cmd.exe*
 LICENSE.txt
 mingw64/
 proc/
+  testing for sam
 ReleaseNotes.html
 tmp/
 unins001.dat
